@@ -1,0 +1,3 @@
+{
+    "files": ["qml/pages/contactsPage.qml","qml/pages/aboutPage.qml","res/images/images_svg/images_png.js","qml/pages/pagesHome/page2.qml","qml/pages/homePage.qml","qml/design/colorsMain.js","qml/controls/DescrTopBarBtn.qml","main.py","qml/pages/pagesHome/page1.qml","qml/pages/pagesHome/page3.qml"]
+}
